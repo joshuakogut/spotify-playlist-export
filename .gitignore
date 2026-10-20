@@ -1,0 +1,9 @@
+.venv/
+.env
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.csv
+!example_output.csv
+plans.md
